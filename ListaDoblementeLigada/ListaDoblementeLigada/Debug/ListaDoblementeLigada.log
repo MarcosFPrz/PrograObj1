@@ -1,0 +1,6 @@
+﻿  Node.cpp
+  DLList.cpp
+  Generating Code...
+DLList.obj : error LNK2019: unresolved external symbol "public: __thiscall Node::~Node(void)" (??1Node@@QAE@XZ) referenced in function "public: void * __thiscall Node::`scalar deleting destructor'(unsigned int)" (??_GNode@@QAEPAXI@Z)
+DLList.obj : error LNK2019: unresolved external symbol "public: __thiscall DLList::~DLList(void)" (??1DLList@@QAE@XZ) referenced in function _main
+C:\Users\Marcos\Documents\TareasPrograObj1\ListaDoblementeLigada\Debug\ListaDoblementeLigada.exe : fatal error LNK1120: 2 unresolved externals
