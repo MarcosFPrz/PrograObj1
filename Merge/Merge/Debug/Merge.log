@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\marcos\documents\tareasprograobj1\merge\merge\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\marcos\documents\tareasprograobj1\merge\merge\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\marcos\documents\tareasprograobj1\merge\merge\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Merge.vcxproj -> C:\Users\Marcos\Documents\TareasPrograObj1\Merge\Debug\Merge.exe
+  Merge.vcxproj -> C:\Users\Marcos\Documents\TareasPrograObj1\Merge\Debug\Merge.pdb (Partial PDB)
