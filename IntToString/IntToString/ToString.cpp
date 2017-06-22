@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
 
 
 void ToString(const int num)
@@ -20,10 +21,8 @@ void ToString(const int num)
 		temp2 = temp2 / 10;
 		temp = temp2;
 	}
-	for (int i = palabranum.size(); i >= 0; i--)
-	{
-		std::cout << palabranum[i];
-	}
+	std::reverse(palabranum.begin(), palabranum.end());
+	std::cout << palabranum;
 	
 
 }
