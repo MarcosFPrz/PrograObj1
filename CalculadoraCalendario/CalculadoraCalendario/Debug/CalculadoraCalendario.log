@@ -1,5 +1,0 @@
-﻿  Source.cpp
-c:\users\marcos\documents\tareasprograobj1\calculadoracalendario\calculadoracalendario\contador.h(6): warning C4215: nonstandard extension used: long float
-c:\users\marcos\documents\tareasprograobj1\calculadoracalendario\calculadoracalendario\source.cpp(4): warning C4215: nonstandard extension used: long float
-  CalculadoraCalendario.vcxproj -> C:\Users\Marcos\Documents\TareasPrograObj1\CalculadoraCalendario\Debug\CalculadoraCalendario.exe
-  CalculadoraCalendario.vcxproj -> C:\Users\Marcos\Documents\TareasPrograObj1\CalculadoraCalendario\Debug\CalculadoraCalendario.pdb (Partial PDB)
